@@ -176,7 +176,7 @@ const HeaderV2: React.FC<IHeaderV2Props> = (props) => {
           <Logo />
           <nav className="hidden laptop:flex space-x-6">
             <a href="/" className="text-gray-600 hover:text-orange-600">
-              Trang chủ1111111111
+              Trang chủ
             </a>
             <a href="/about" className="text-gray-600 hover:text-orange-600">
               Giới thiệu
